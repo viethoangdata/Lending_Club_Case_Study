@@ -1,7 +1,7 @@
 # Project Name
 > Outline a brief description of your project.
 A consumer finance company needs to make decisions about loan approvals based on an applicant's profile to manage two types of risks - loss of business if a likely loan repayer is not approved and financial loss if a likely loan defaulter is approved. The company wants to use exploratory data analysis (EDA) to identify patterns in consumer and loan attributes that influence the tendency of default to make better decisions regarding loan approvals, loan amounts, and interest rates. The data provided contains information on past loan applicants and whether they defaulted.
-![image](https://user-images.githubusercontent.com/124758310/218895139-0d1ebb2f-2a53-4c9d-82de-190f72faa1f1.png)
+
 
 
 ## Table of Contents
